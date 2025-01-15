@@ -11,9 +11,8 @@ class SiteLogo extends StatelessWidget {
                 onTap: onTap,
                  child: const Text(
                   "URINALYZE", style: TextStyle(
-                    fontSize: 22,
+                    fontSize: 24,
                     fontWeight: FontWeight.bold,
-                    decoration: TextDecoration.underline,
                     color: CustomColor.yellowSecondary,
                   ),
                   ),
